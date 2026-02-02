@@ -1,0 +1,3 @@
+# Note: This file should be empty. The actual JAR will be downloaded when mvnw is first run.
+# We cannot include binary data in a SEARCH/REPLACE block, so we'll leave it empty.
+# The mvnw script will download the JAR if it doesn't exist.
